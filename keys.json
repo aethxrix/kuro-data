@@ -16,5 +16,21 @@
     "duration_type": "days",
     "duration_val": 365,
     "activated": false
+  },
+  "Terousd11": {
+    "key": "Terousd11",
+    "status": "active",
+    "created_at": "2026-11-09T12:19:12.419Z",
+    "duration_type": "days",
+    "duration_val": 30,
+    "activated": false,
+    "activated_at": "",
+    "expired_date": "",
+    "max_devices": 1,
+    "devices": [],
+    "note": "",
+    "created_by": "Terousd",
+    "login_count": 0,
+    "last_login": null
   }
 }
